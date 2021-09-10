@@ -239,7 +239,9 @@ a.hero-btn-secondary {
 
   .rightImg .right-img {
     width: 60%;
+    right: 0px;
   }
+
 
   .left-img {
     display: none;
