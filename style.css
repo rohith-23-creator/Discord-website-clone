@@ -6,8 +6,11 @@
 
 body {
   font-family: "whitneyRegular";
-  overflow-x: hidden;
+  overflow-x: hidden !important;
+  position : relative;
 }
+
+
 li,
 a {
   text-decoration: none;
@@ -673,4 +676,4 @@ body.overflow {
     font-size: 12px;
     margin-left: 20px;
   }
-}
+} 
