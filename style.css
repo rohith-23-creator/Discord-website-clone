@@ -8,6 +8,8 @@ body {
   font-family: "whitneyRegular";
   overflow-x: hidden !important;
   position : relative;
+  width:100%;
+  height:100%;
 }
 
 
